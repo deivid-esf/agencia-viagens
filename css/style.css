@@ -42,7 +42,7 @@
 
   /*estilizando a secão do formulario*/
   .secao-capa{
-    background-image: url(/imgs/bahia.jpg);
+    background-image: url("/imgs/bahia.jpg");
     height: 1000px;
     width: 100%;
   }
@@ -246,7 +246,7 @@
 
   /*estilizando a secão do formulario*/
   .secao-capa{
-    background-image: url(/imgs/bahia.jpg);
+    background-image: url("/imgs/bahia.jpg");
     height: 100vh;
     width: 100%;
   }
@@ -489,7 +489,7 @@
 
   /*estilizando a secão do formulario*/
   .secao-capa{
-    background-image: url(/imgs/bahia.jpg);
+    background-image: url("/imgs/bahia.jpg");
     height: 850px;
     width: 100%;
   }
@@ -747,7 +747,7 @@
 
   /*estilizando a secão do formulario*/
   .secao-capa{
-    background-image: url(/imgs/bahia.jpg);
+    background-image: url("/imgs/bahia.jpg");
     height: 850px;
     width: 100%;
   }
